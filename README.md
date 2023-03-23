@@ -88,5 +88,3 @@ We used malloc and free and are not allowed to use any other function from man m
   <li>Compiler: gcc</li>
   <li>Version Control: Git</li>
 </ul>
-<hr>
-<h3>
